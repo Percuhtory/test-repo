@@ -1,6 +1,0 @@
-router ospf 1
-router-id 1.1.1.1
-int lo1
-ip 1.1.1.1
-ip ospf 1 area 0
-
